@@ -1,5 +1,4 @@
-### UCSanDiegoObject-Oriented-Programming-in-Java
-
+### University of San Diego: Object Oriented Java Programming: Data Structures and Beyond Specialization
 ##### About this Course:
 Welcome to our course on Object Oriented Programming in Java using data visualization. People come to this course with many different goals -- and we are really excited to work with all of you! Some of you want to be professional software developers, others want to improve your programming skills to implement that cool personal project that you’ve been thinking about, while others of you might not yet know why you’re here and are trying to figure out what this course is all about.  This is an intermediate Java course.
 
