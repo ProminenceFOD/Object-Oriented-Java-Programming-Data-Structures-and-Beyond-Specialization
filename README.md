@@ -1,7 +1,20 @@
 ### University of San Diego: Object Oriented Java Programming: Data Structures and Beyond Specialization
 ##### About this Course:
-Welcome to our course on Object Oriented Programming in Java using data visualization. People come to this course with many different goals -- and we are really excited to work with all of you! Some of you want to be professional software developers, others want to improve your programming skills to implement that cool personal project that you’ve been thinking about, while others of you might not yet know why you’re here and are trying to figure out what this course is all about.  This is an intermediate Java course.
 
-We recommend this course to learners who have previous experience in software development or a background in computer science.  Our goal is that by the end of this course each and every one of you feels empowered to create a Java program that’s more advanced than any you have created in the past and that is personally interesting to you. 
+Develop Powerful Interactive Software. Advance your software development knowledge in four comprehensive courses.
 
-In achieving this goal you will also learn the fundamentals of Object Oriented Programming, how to leverage the power of existing libraries, how to build graphical user interfaces, and how to use some core algorithms for searching and sorting data. And this course is project-based, so we’ll dive right into the project immediately!
+About this Specialization
+
+This Specialization covers intermediate topics in software development. You’ll learn object-oriented programming principles that will allow you to use Java to its full potential, and you’ll implement data structures and algorithms for organizing large amounts of data in a way that is both efficient and easy to work with. 
+
+You’ll also practice critically evaluating your own code, and you’ll build technical communication skills that will help you prepare for job interviews and collaborative work as a software engineer. In the final Capstone Project, you’ll apply your skills to analyze data collected from a real-world (social) network. 
+
+Google has contributed real-world projects and the involvement of its engineers as guest lecturers to these courses. A small, select group of top learners who complete the Specialization will be offered practice interviews with Google recruiters. Invitation to a practice interview does not guarantee an actual interview or employment.
+
+
+
+SKILLS YOU WILL GAIN
+1. Data Structure
+2. Problem Solving
+3. Java Programming
+4. Object-Oriented Programming (OOP)
